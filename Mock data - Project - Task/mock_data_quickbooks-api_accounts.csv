@@ -1,0 +1,4 @@
+Id,Name,AccountType,CurrentBalance,Active
+60,Cost of Goods Sold,Expense,0,TRUE
+61,Meal Reimbursements,Expense,0,TRUE
+72,Tax Payable,Liability,0,TRUE

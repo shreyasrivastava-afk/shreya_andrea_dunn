@@ -1,0 +1,4 @@
+charge_id,customer_id,amount,currency,status,created,description
+ch_001,cus_A01,150,usd,succeeded,2026-05-10,ANDUbeats licensing Q1
+ch_002,cus_A02,75,usd,succeeded,2026-05-12,Beat pack sale
+ch_003,cus_A03,200,usd,succeeded,2026-05-18,Custom beat license
